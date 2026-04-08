@@ -65,9 +65,12 @@
 Отобраны столбцы: `Дата`, `User_id`, `Бренд`, `Модель`, `Тип неисправности`, `Сумма ремонта`, `Дата отдачи`
 
 
+### Видео обзор:
+[Demo](https://disk.yandex.ru/i/whQLkgVsDzr9vg)
 
-## Демо
+<img width="1493" height="813" alt="image" src="https://github.com/user-attachments/assets/861010dc-1b37-4a92-90c1-e4b1df51203e" />
+<img width="1439" height="826" alt="image" src="https://github.com/user-attachments/assets/f620b0c7-4be2-461a-868e-1514c079d54c" />
+<img width="1487" height="829" alt="image" src="https://github.com/user-attachments/assets/0a2bc16e-ddfa-40ce-8d70-c1ed5b6ba433" />
 
-### Краткий обзор:
-![Demo]https://disk.yandex.ru/i/whQLkgVsDzr9vg
+
 
