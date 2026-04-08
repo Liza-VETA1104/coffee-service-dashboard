@@ -63,3 +63,5 @@
 
 ### 11. Итоговая таблица
 Отобраны столбцы: `Дата`, `User_id`, `Бренд`, `Модель`, `Тип неисправности`, `Сумма ремонта`, `Дата отдачи`
+
+https://raw.githubusercontent.com/Liza-VETA1104/coffee-service-dashboard/main/assets/videos/video.mp4
