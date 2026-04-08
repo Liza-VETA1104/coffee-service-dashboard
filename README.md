@@ -66,4 +66,4 @@
 
 <video src="https://github.com/Liza-VETA1104/coffee-service-dashboard/blob/main/assets/video.mp4?raw=true" controls></video>
 
-https://raw.githubusercontent.com/Liza-VETA1104/coffee-service-dashboard/main/assets/videos/video.mp4
+https://disk.yandex.ru/i/whQLkgVsDzr9vg
